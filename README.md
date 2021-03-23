@@ -1,5 +1,5 @@
 # sqlbolt-solutions
-This /repository contains my solutions to problems on [SQLBolt](https://sqlbolt.com/).  
+This repository contains my solutions to problems on [SQLBolt](https://sqlbolt.com/).  
 
 Click on the links to view the solutions.
 1. [SQL Lesson 1: SELECT queries 101]()
