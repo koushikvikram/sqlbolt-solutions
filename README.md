@@ -8,3 +8,4 @@ Click on the links to view the solutions.
 4. [SQL Lesson 4: Filtering and sorting Query results](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/4-Filtering-and-sorting-Query-results.md)
 5. [SQL Review: Simple SELECT Queries](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/5-SQL-Review-Simple-SELECT-Queries.md)
 6. [SQL Lesson 6: Multi-table queries with JOINs](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/6-Multi-table-queries-with-JOINs.md)
+7. [SQL Lesson 7: OUTER JOINs](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/7-OUTER-JOINs.md)
