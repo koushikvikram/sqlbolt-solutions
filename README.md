@@ -17,3 +17,6 @@ Click on the links to view the solutions.
 13. [SQL Lesson 13: Inserting rows](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/13-Inserting-rows.md)
 14. [SQL Lesson 14: Updating rows](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/14-Updating-rows.md)
 15. [SQL Lesson 15: Deleting rows](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/15-Deleting-rows.md)
+16. [SQL Lesson 16: Creating Tables](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/16-Creating-tables.md)
+17. [SQL Lesson 17: Altering Tables](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/17-Altering-tables.md)
+18. [SQL Lesson 18: Dropping Tables](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/18-Dropping-tables.md)
