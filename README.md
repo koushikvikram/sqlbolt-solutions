@@ -16,4 +16,4 @@ Click on the links to view the solutions.
 12. [SQL Lesson 12: Order of execution of a Query](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/12-Order-of-execution-of-a-Query.md)
 13. [SQL Lesson 13: Inserting rows](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/13-Inserting-rows.md)
 14. [SQL Lesson 14: Updating rows](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/14-Updating-rows.md)
-15. [SQL Lesson 15: Deleting rows]()
+15. [SQL Lesson 15: Deleting rows](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/15-Deleting-rows.md)
