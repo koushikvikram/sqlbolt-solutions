@@ -14,3 +14,6 @@ Click on the links to view the solutions.
 10. [SQL Lesson 10: Queries with aggregates (Pt. 1)](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/10-Queries-with-aggregates-1.md)
 11. [SQL Lesson 11: Queries with aggregates (Pt. 2)](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/11-Queries-with-aggregates-2.md)
 12. [SQL Lesson 12: Order of execution of a Query](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/12-Order-of-execution-of-a-Query.md)
+13. [SQL Lesson 13: Inserting rows](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/13-Inserting-rows.md)
+14. [SQL Lesson 14: Updating rows](https://github.com/koushikvikram/sqlbolt-solutions/blob/main/14-Updating-rows.md)
+15. [SQL Lesson 15: Deleting rows]()
